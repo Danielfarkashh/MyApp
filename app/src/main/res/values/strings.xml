@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="title_activity_favorite_list">FavoriteList</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!--Categories-->
+    <string name="category_general">General</string>
+    <string name="category_business">Business</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_health">Health</string>
+    <string name="category_science">Science</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_technology">Technology</string>
+    <string name="category_favorites">Favorites News</string>
+    <string name="save_button">Save</string>
+    <string name="image_of_news">Image of news</string>
+</resources>
